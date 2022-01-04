@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(49, 130, 168);
+    font: size 18px;
+    font-family: poppins;
+}
+h1{
+    color: chartreuse;
+    background-color: chocolate;
+    text-align: center;
+}
